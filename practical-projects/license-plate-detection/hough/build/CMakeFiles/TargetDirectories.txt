@@ -1,0 +1,6 @@
+/home/hamidreza/Desktop/hough/build/CMakeFiles/edit_cache.dir
+/home/hamidreza/Desktop/hough/build/CMakeFiles/rebuild_cache.dir
+/home/hamidreza/Desktop/hough/build/CMakeFiles/project.dir
+/home/hamidreza/Desktop/hough/build/CMakeFiles/adjustment.dir
+/home/hamidreza/Desktop/hough/build/CMakeFiles/detection.dir
+/home/hamidreza/Desktop/hough/build/CMakeFiles/equal.dir

@@ -1,0 +1,3 @@
+/home/hojat/Desktop/license_plate/build/CMakeFiles/edit_cache.dir
+/home/hojat/Desktop/license_plate/build/CMakeFiles/rebuild_cache.dir
+/home/hojat/Desktop/license_plate/build/CMakeFiles/license_generator.dir
