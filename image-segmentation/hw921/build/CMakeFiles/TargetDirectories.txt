@@ -1,0 +1,6 @@
+/home/hamidreza/ocv/hw921/build/CMakeFiles/edit_cache.dir
+/home/hamidreza/ocv/hw921/build/CMakeFiles/rebuild_cache.dir
+/home/hamidreza/ocv/hw921/build/CMakeFiles/bs1.dir
+/home/hamidreza/ocv/hw921/build/CMakeFiles/con.dir
+/home/hamidreza/ocv/hw921/build/CMakeFiles/bs2.dir
+/home/hamidreza/ocv/hw921/build/CMakeFiles/_bs1.dir

@@ -1,0 +1,5 @@
+/home/hamidreza/cv/HW/hw7/build/CMakeFiles/edit_cache.dir
+/home/hamidreza/cv/HW/hw7/build/CMakeFiles/ans2_gmg.dir
+/home/hamidreza/cv/HW/hw7/build/CMakeFiles/ans2_mog2.dir
+/home/hamidreza/cv/HW/hw7/build/CMakeFiles/ans2_mog.dir
+/home/hamidreza/cv/HW/hw7/build/CMakeFiles/rebuild_cache.dir

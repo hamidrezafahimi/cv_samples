@@ -1,0 +1,3 @@
+/home/hamidreza/ocv/hw960/build/CMakeFiles/edit_cache.dir
+/home/hamidreza/ocv/hw960/build/CMakeFiles/rebuild_cache.dir
+/home/hamidreza/ocv/hw960/build/CMakeFiles/sift.dir

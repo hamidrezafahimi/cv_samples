@@ -1,0 +1,4 @@
+/home/hamidreza/cv/HW/hw6/build/CMakeFiles/rebuild_cache.dir
+/home/hamidreza/cv/HW/hw6/build/CMakeFiles/thr.dir
+/home/hamidreza/cv/HW/hw6/build/CMakeFiles/edit_cache.dir
+/home/hamidreza/cv/HW/hw6/build/CMakeFiles/hou.dir

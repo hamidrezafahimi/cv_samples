@@ -1,0 +1,6 @@
+/home/hamidreza/ocv/hw905/build/CMakeFiles/edit_cache.dir
+/home/hamidreza/ocv/hw905/build/CMakeFiles/rebuild_cache.dir
+/home/hamidreza/ocv/hw905/build/CMakeFiles/try1.dir
+/home/hamidreza/ocv/hw905/build/CMakeFiles/exc1.dir
+/home/hamidreza/ocv/hw905/build/CMakeFiles/exc2.dir
+/home/hamidreza/ocv/hw905/build/CMakeFiles/exc3.dir
