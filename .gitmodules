@@ -1,0 +1,3 @@
+[submodule "practical-projects/license-plate-detection/darknet_scripts"]
+	path = practical-projects/license-plate-detection/darknet_scripts
+	url = https://github.com/Jumabek/darknet_scripts.git

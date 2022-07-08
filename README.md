@@ -9,6 +9,3 @@ I still add every single-task CV skill I learn.
 
 
 
-
-*.weights
-practical-projects/face-detection/ds/
