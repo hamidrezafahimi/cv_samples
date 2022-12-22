@@ -1,0 +1,3 @@
+/home/hamid/w/cv_samples/UI/cpp/mouseClick/build/CMakeFiles/rebuild_cache.dir
+/home/hamid/w/cv_samples/UI/cpp/mouseClick/build/CMakeFiles/edit_cache.dir
+/home/hamid/w/cv_samples/UI/cpp/mouseClick/build/CMakeFiles/main.dir
