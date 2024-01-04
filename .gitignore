@@ -1,2 +1,8 @@
 *.weights
 projects/face-detection/ds/
+*/build/
+*/*/build/
+*/*/*/build/
+*/*/*/*/build/
+*/*/*/*/*/build/
+*/*/*/*/*/*/build/

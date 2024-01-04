@@ -1,4 +1,3 @@
-import numpy as np
 import cv2 as cv
 drawing = False # true if mouse is pressed
 mode = True # if True, draw rectangle. Press 'm' to toggle to curve
@@ -9,6 +8,7 @@ def draw_circle(event,x,y,flags,param):
     if event == cv.EVENT_LBUTTONDOWN:
         drawing = True
         ix,iy = x,y
+        print(x,y)
     elif event == cv.EVENT_MOUSEMOVE:
         if drawing == True:
             if mode == True:
@@ -22,7 +22,10 @@ def draw_circle(event,x,y,flags,param):
         else:
             cv.circle(img,(x,y),5,(0,0,255),-1)
 
-img = np.zeros((512,512,3), np.uint8)
+# img = np.zeros((512,512,3), np.uint8)
+from pathlib import Path
+pth = str(Path(__file__).parent.resolve()) + "/../rectification/Fig1.jpg"
+img = cv.imread(pth)
 cv.namedWindow('image')
 cv.setMouseCallback('image',draw_circle)
 while(1):
